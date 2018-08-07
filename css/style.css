@@ -1,1 +1,32 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: #00BFB0;
+      font-size: 150%;
+      color:white;
+      letter-spacing: 10px;
+      font-style: cursive
+
+}
+
+h1 {
+  font: cursive;
+  color:#D9FCFF;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.myClass {
+      background-color: darkmagenta;
+      color: blue
+    }
+    
+    .myClass {
+      font-size: 300%;
+      background-color: #e0fffd;
+      font-family: courier;
+      border: 1px double darkmagenta;
+      text-transform: uppercase;
+      letter-spacing: 10px;
+      transition: rotate(-30)deg;
+    }
+  
+  
